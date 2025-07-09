@@ -1,4 +1,4 @@
-# Bash sysytem_analysis script
+# Bash system_analysis script
 
 Cкрипт для анализа системы.
 
