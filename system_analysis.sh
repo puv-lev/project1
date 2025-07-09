@@ -81,4 +81,4 @@ swapon --show | tee -a "$REPORT_FILE"
 
 # Итог
 echo -e "\n=== Анализ завершён. Отчёт сохранён в $REPORT_FILE ===" | tee -a "$REPORT_FILE"
-echo "Итоговый файл для дальнейшего анализа." | tee -a "$REPORT_FILE"
+echo "Отчет о системе" | tee -a "$REPORT_FILE"
